@@ -1,2 +1,5 @@
-# ai-content-forge-2b
-AI Content Forge - micro SaaS MVP for Project 2B
+# AI Content Forge
+
+Initial MVP for Project 2B.
+
+A micro-SaaS focused on AI content generation tools.
